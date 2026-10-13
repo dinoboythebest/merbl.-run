@@ -10,22 +10,5 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 1h | 1 |
+| Week 2 | Tier 1 | 1h | 0 |
 
-# Day 1: Learning Onshape and Building My First Track Part
-
-Today, I made my first part of the marble run. I started by learning how to use Onshape through its tutorial. At first, I didn't even know how I was supposed to log my hours, so I searched around the site until I found the tutorial. Before starting, I also set up Lapse so I could record my work.
-
-At first, Onshape was very confusing because there were so many different tools to learn and I wasn't sure what to do. It didn't get much easier as I continued. Every time I thought I had figured something out, a new problem came along.
-
-For example, when I tried to change the measurements of my square sketch, I accidentally deleted the plane and had to restart. When I tried using the Sweep tool for the first time, I kept selecting the wrong line, which made the result look strange or prevented it from changing at all.
-
-Despite these problems, I managed to finish the first part of my marble run.
-
-When it was time to download my work, I couldn't figure out how to do it. I had to search three different times: first, to learn how to download a file; second, to find out how to download the specific editable file I needed; and third, to figure out which settings to use.
-
-Finally, I uploaded my files to GitHub before going to bed.
-
-Tomorrow, I'll either make a funnel or add more straight and curved sections to the track.
-
-**TL;DR:** Learned the basics of Onshape, overcame several modelling and exporting problems, and completed the first part of my marble run.
