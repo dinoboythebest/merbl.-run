@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 1.73h | 1 |
+| Week 2 | Tier 1 | 1h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-13 – # Day 1: Learning Onshape and Building My First Track Part
 
-**1.73h**
+**1h**
 
 # Day 1: Learning Onshape and Building My First Track Part
 
