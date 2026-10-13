@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 1h | 1 |
+| Week 2 | Tier 1 | 1.73h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-13 – # Day 1: Learning Onshape and Building My First Track Part
 
-**1h**
+**1.73h**
 
 # Day 1: Learning Onshape and Building My First Track Part
 
@@ -43,3 +43,5 @@ Tomorrow, I'll either make a funnel or add more straight and curved sections to 
 ![Screenshot 2026-10-13 at 12.42.04 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IeneJI3HWBrRiTK3nUsXp0yRYBjAk7Z9/e57b7d71284c3ab0db14793b2a75c5457366a5c1aa80619ae6ab30ce10dcdc75.png)
 
 ![Screenshot 2026-10-13 at 12.42.32 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/IeneJI3HWBrRiTK3nUsXp0yRYBjAk7Z9/97979c038b43606b55acda35939cd96f3df3b41f2a4710ec69c7bd50ebe856d9.png)
+
+[Timelapse](https://lookout.hackclub.com/api/media/f8341f82-56fe-4a10-8569-9fca398a451c/video.mp4)
