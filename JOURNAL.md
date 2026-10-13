@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 0h | 0 |
+| Week 2 | Tier 1 | 1h | 1 |
 
 # Day 1: Learning Onshape and Building My First Track Part
 
